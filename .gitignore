@@ -1,8 +1,0 @@
-node_modules
-build
-tsconfig.tsbuildinfo
-dist
-.cache
-cdk.out
-cdk.context.json
-*.tgz
